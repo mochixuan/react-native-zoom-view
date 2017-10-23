@@ -1,0 +1,32 @@
+{
+  "name": "react-native-zoom-view",
+  "version": "1.0.0",
+  "description": "scaling operations on view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mochixuan/react-native-zoom-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "zoom",
+    "view",
+    "carousel"
+  ],
+  "author": "mochixuan",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.18",
+    "@types/react-native": "^0.49.2",
+    "react-native-typescript-transformer": "^1.1.4",
+    "typescript": "^2.5.3"
+  }
+}
