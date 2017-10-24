@@ -1,6 +1,6 @@
 {
   "name": "react-native-zoom-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "scaling operations on view",
   "main": "index.js",
   "scripts": {
