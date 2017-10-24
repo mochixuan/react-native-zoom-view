@@ -1,11 +1,16 @@
 # react-native-zoom-view
 
+## 效果
+
+![icon1.gif](http://upload-images.jianshu.io/upload_images/2646598-00e16d95fbbb5c0c.gif?imageMogr2/auto-orient/strip)
+
 >- 实现图片放大缩小和完美兼容三方左右滑控件
 
-## install 
->- yarn add react-native-zoom-view 或 npm install react-native-zoom-view
+## 安装 
+>- yarn add react-native-zoom-view 
+>- npm install react-native-zoom-view
 
-## 单独使用
+## 单独实现缩放
 ``` html
 import ViewControl from 'react-native-zoom-view'
 const {width,height} = Dimensions.get('window')
@@ -27,7 +32,7 @@ const {width,height} = Dimensions.get('window')
 </ViewControl>
 
 ```
-## Swiper
+## 实现缩放和左右滑
 
 ``` html
 
@@ -99,5 +104,5 @@ return (
 | onLongPress | ()=>void | on longPress | ()=> {} |
 
 ## Reference 
-图片放到缩小和属性名字都是来自react-native-image-zoom，只是修改了和添加了一些方法使其更加兼容左右滑。
-[react-native-image-zoom](https://github.com/ascoders/react-native-image-zoom)
+>- 图片放到缩小和属性名字都是来自react-native-image-zoom，只是修改了和添加了一些方法使其更加兼容左右滑。
+>- [react-native-image-zoom](https://github.com/ascoders/react-native-image-zoom)
