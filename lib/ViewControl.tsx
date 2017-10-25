@@ -309,6 +309,8 @@ export default class ViewControl extends Component<typings.PropsDefine,typings.S
             },
 
             onPanResponderRelease: (_evt, _gestureState) => {
+                this.changeTouchState(true)
+
                 if (this.isDoubleClickScale) {
                     return
                 }
