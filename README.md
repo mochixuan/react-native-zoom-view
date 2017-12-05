@@ -1,4 +1,4 @@
-# ~~react-native-zoom-view ~~
+# ~~react-native-zoom-view~~
 
 ## 效果
 
