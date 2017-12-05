@@ -1,16 +1,16 @@
-# react-native-zoom-view
+# ~~react-native-zoom-view ~~
 
-## Ğ§¹û
+## æ•ˆæœ
 
 ![icon1.gif](http://upload-images.jianshu.io/upload_images/2646598-00e16d95fbbb5c0c.gif?imageMogr2/auto-orient/strip)
 
->- ÊµÏÖÍ¼Æ¬·Å´óËõĞ¡ºÍÍêÃÀ¼æÈİÈı·½×óÓÒ»¬¿Ø¼ş
+>- å®ç°å›¾ç‰‡æ”¾å¤§ç¼©å°å’Œå®Œç¾å…¼å®¹ä¸‰æ–¹å·¦å³æ»‘æ§ä»¶
 
-## °²×° 
+## å®‰è£… 
 >- yarn add react-native-zoom-view 
 >- npm install react-native-zoom-view
 
-## µ¥¶ÀÊµÏÖËõ·Å
+## å•ç‹¬å®ç°ç¼©æ”¾
 ``` html
 import ViewControl from 'react-native-zoom-view'
 const {width,height} = Dimensions.get('window')
@@ -32,11 +32,11 @@ const {width,height} = Dimensions.get('window')
 </ViewControl>
 
 ```
-## ÊµÏÖËõ·ÅºÍ×óÓÒ»¬
+## å®ç°ç¼©æ”¾å’Œå·¦å³æ»‘
 
 ``` html
 
-ÊµÏÖËõ·ÅºÍ×óÓÒ»¬
+å®ç°ç¼©æ”¾å’Œå·¦å³æ»‘
 import Swiper from 'react-native-swiper'
 import ViewControl from 'react-native-zoom-view'
 
@@ -83,7 +83,7 @@ return (
 
 ```
 
-## ÎÄµµ
+## æ–‡æ¡£
 
 | Props | Type | Description | DefaultValue
 | ------ | ----------- | ----------- | ----------- |
@@ -104,5 +104,5 @@ return (
 | onLongPress | ()=>void | on longPress | ()=> {} |
 
 ## Reference 
->- Í¼Æ¬·Åµ½ËõĞ¡ºÍÊôĞÔÃû×Ö¶¼ÊÇÀ´×Ôreact-native-image-zoom£¬Ö»ÊÇĞŞ¸ÄÁËºÍÌí¼ÓÁËÒ»Ğ©·½·¨Ê¹Æä¸ü¼Ó¼æÈİ×óÓÒ»¬¡£
+>- å›¾ç‰‡æ”¾åˆ°ç¼©å°å’Œå±æ€§åå­—éƒ½æ˜¯æ¥è‡ªreact-native-image-zoomï¼Œåªæ˜¯ä¿®æ”¹äº†å’Œæ·»åŠ äº†ä¸€äº›æ–¹æ³•ä½¿å…¶æ›´åŠ å…¼å®¹å·¦å³æ»‘ã€‚
 >- [react-native-image-zoom](https://github.com/ascoders/react-native-image-zoom)
