@@ -1,5 +1,9 @@
 # ~~react-native-zoom-view~~
 
+# 已放弃，有点问题在和swiper交接滑动时
+
+-------
+
 ## 效果
 
 ![icon1.gif](http://upload-images.jianshu.io/upload_images/2646598-00e16d95fbbb5c0c.gif?imageMogr2/auto-orient/strip)
